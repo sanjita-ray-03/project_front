@@ -11,6 +11,7 @@ img{
     position: absolute !important;
     top: 0px;
     z-index: 0;
+    /* filter: brightness(0.3); */
 }
 .text{
     position: relative;
@@ -19,6 +20,9 @@ img{
     top: 120px;
     left: 45px;
     
+}
+.text h1{
+    font-size: 4rem;
 }
 
 
